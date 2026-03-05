@@ -13,8 +13,8 @@
     <name>FemApp</name>
     <message>
         <location filename="../fem/src/mainwindow.ui" line="14"/>
-        <location filename="../fem/src/femapp.cpp" line="752"/>
-        <location filename="../fem/src/femapp.cpp" line="759"/>
+        <location filename="../fem/src/femapp.cpp" line="749"/>
+        <location filename="../fem/src/femapp.cpp" line="756"/>
         <source>FemApp</source>
         <translation type="unfinished"></translation>
     </message>
@@ -34,118 +34,118 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="279"/>
+        <location filename="../fem/src/femapp.cpp" line="276"/>
         <source>Unsaved Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="280"/>
+        <location filename="../fem/src/femapp.cpp" line="277"/>
         <source>You have unsaved changes. Do you want to save before closing?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="327"/>
+        <location filename="../fem/src/femapp.cpp" line="324"/>
         <source>Config file path is empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="334"/>
-        <location filename="../fem/src/femapp.cpp" line="395"/>
+        <location filename="../fem/src/femapp.cpp" line="331"/>
+        <location filename="../fem/src/femapp.cpp" line="392"/>
         <source>Config file does not exist: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="367"/>
+        <location filename="../fem/src/femapp.cpp" line="364"/>
         <source>Failed to read FEM config file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="451"/>
+        <location filename="../fem/src/femapp.cpp" line="448"/>
         <source>No workspace is currently opened.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="535"/>
+        <location filename="../fem/src/femapp.cpp" line="532"/>
         <source>No folders matched the folder pattern. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="542"/>
+        <location filename="../fem/src/femapp.cpp" line="539"/>
         <source>Multiple folders matched the folder pattern. Please ensure only one folder matches.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="570"/>
+        <location filename="../fem/src/femapp.cpp" line="567"/>
         <source>No filenames matched the filename pattern.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="582"/>
+        <location filename="../fem/src/femapp.cpp" line="579"/>
         <source>Multiple filenames matched the filename pattern. Please ensure only one filename matches.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="641"/>
+        <location filename="../fem/src/femapp.cpp" line="638"/>
         <source>No sheets matched the sheet pattern. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="647"/>
+        <location filename="../fem/src/femapp.cpp" line="644"/>
         <source>Multiple sheets matched the sheet pattern. Please ensure only one sheet matches.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="681"/>
+        <location filename="../fem/src/femapp.cpp" line="678"/>
         <source>Failed to read Excel file: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1056"/>
+        <location filename="../fem/src/femapp.cpp" line="1053"/>
         <source>Executable Files (*.exe *.com);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1058"/>
-        <location filename="../fem/src/femapp.cpp" line="1096"/>
+        <location filename="../fem/src/femapp.cpp" line="1055"/>
+        <location filename="../fem/src/femapp.cpp" line="1093"/>
         <source>Executable Files (*);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1060"/>
-        <location filename="../fem/src/femapp.cpp" line="1098"/>
+        <location filename="../fem/src/femapp.cpp" line="1057"/>
+        <location filename="../fem/src/femapp.cpp" line="1095"/>
         <source>All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1063"/>
+        <location filename="../fem/src/femapp.cpp" line="1060"/>
         <source>Select FEM Cal Executable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1071"/>
-        <location filename="../fem/src/femapp.cpp" line="1109"/>
+        <location filename="../fem/src/femapp.cpp" line="1068"/>
+        <location filename="../fem/src/femapp.cpp" line="1106"/>
         <source>Selected file does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1077"/>
-        <location filename="../fem/src/femapp.cpp" line="1115"/>
+        <location filename="../fem/src/femapp.cpp" line="1074"/>
+        <location filename="../fem/src/femapp.cpp" line="1112"/>
         <source>Not executable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1078"/>
-        <location filename="../fem/src/femapp.cpp" line="1116"/>
+        <location filename="../fem/src/femapp.cpp" line="1075"/>
+        <location filename="../fem/src/femapp.cpp" line="1113"/>
         <source>The selected file is not marked executable. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1101"/>
+        <location filename="../fem/src/femapp.cpp" line="1098"/>
         <source>Select FEM Sel Executable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1094"/>
+        <location filename="../fem/src/femapp.cpp" line="1091"/>
         <source>Executable Files (*.exe *.com *.out);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -160,66 +160,66 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="901"/>
+        <location filename="../fem/src/femapp.cpp" line="898"/>
         <source>Open FEM Config File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="815"/>
-        <location filename="../fem/src/femapp.cpp" line="943"/>
+        <location filename="../fem/src/femapp.cpp" line="812"/>
+        <location filename="../fem/src/femapp.cpp" line="940"/>
         <source>FEM Config Files (*.fem);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="814"/>
+        <location filename="../fem/src/femapp.cpp" line="811"/>
         <source>Create New FEM Project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="829"/>
-        <location filename="../fem/src/femapp.cpp" line="869"/>
+        <location filename="../fem/src/femapp.cpp" line="826"/>
+        <location filename="../fem/src/femapp.cpp" line="866"/>
         <source>Failed to create FEM config file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="840"/>
+        <location filename="../fem/src/femapp.cpp" line="837"/>
         <source>Create New Workspace File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="841"/>
+        <location filename="../fem/src/femapp.cpp" line="838"/>
         <source>Workspace Files (*.femmpw);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="902"/>
+        <location filename="../fem/src/femapp.cpp" line="899"/>
         <source>FEM Analysis Project Files (*.fem);;FEM Multi-Project Workspace Files (*.femmpw);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="925"/>
-        <location filename="../fem/src/femapp.cpp" line="950"/>
+        <location filename="../fem/src/femapp.cpp" line="922"/>
+        <location filename="../fem/src/femapp.cpp" line="947"/>
         <source>Failed to generate FEM config content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="933"/>
-        <location filename="../fem/src/femapp.cpp" line="958"/>
+        <location filename="../fem/src/femapp.cpp" line="930"/>
+        <location filename="../fem/src/femapp.cpp" line="955"/>
         <source>Failed to save FEM config file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="942"/>
+        <location filename="../fem/src/femapp.cpp" line="939"/>
         <source>Save FEM Config File As</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="971"/>
+        <location filename="../fem/src/femapp.cpp" line="968"/>
         <source>Select Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="803"/>
+        <location filename="../fem/src/femapp.cpp" line="800"/>
         <source>Failed to parse raw FEM config content.</source>
         <translation type="unfinished"></translation>
     </message>
