@@ -33,15 +33,15 @@
     <name>FemApp</name>
     <message>
         <location filename="../fem/src/mainwindow.ui" line="14"/>
-        <location filename="../fem/src/femapp.cpp" line="1648"/>
-        <location filename="../fem/src/femapp.cpp" line="1658"/>
+        <location filename="../fem/src/femapp.cpp" line="1734"/>
+        <location filename="../fem/src/femapp.cpp" line="1744"/>
         <source>FemApp</source>
         <translation>FemApp</translation>
     </message>
     <message>
         <location filename="../fem/src/mainwindow.ui" line="34"/>
         <location filename="../fem/src/femapp.cpp" line="71"/>
-        <location filename="../fem/src/femapp.cpp" line="1256"/>
+        <location filename="../fem/src/femapp.cpp" line="1258"/>
         <source>FEM</source>
         <translation type="unfinished">FEM</translation>
     </message>
@@ -51,42 +51,43 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/mainwindow.ui" line="110"/>
-        <location filename="../fem/src/femapp.cpp" line="1103"/>
+        <location filename="../fem/src/mainwindow.ui" line="113"/>
+        <location filename="../fem/src/femapp.cpp" line="1105"/>
         <source>Output</source>
         <translation>输出</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="553"/>
-        <location filename="../fem/src/femapp.cpp" line="624"/>
-        <location filename="../fem/src/femapp.cpp" line="697"/>
+        <location filename="../fem/src/femapp.cpp" line="555"/>
+        <location filename="../fem/src/femapp.cpp" line="626"/>
+        <location filename="../fem/src/femapp.cpp" line="699"/>
         <source>Config file does not exist: </source>
         <translation>配置文件不存在：</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="753"/>
+        <location filename="../fem/src/femapp.cpp" line="755"/>
         <source>No workspace is currently opened.</source>
         <translation>当前没有打开的工作区。</translation>
     </message>
     <message>
         <location filename="../fem/src/mainwindow.ui" line="56"/>
-        <location filename="../fem/src/femapp.cpp" line="922"/>
+        <location filename="../fem/src/femapp.cpp" line="924"/>
         <source>Workspace</source>
         <translation>工作区</translation>
     </message>
     <message>
         <location filename="../fem/src/mainwindow.ui" line="29"/>
-        <location filename="../fem/src/femapp.cpp" line="921"/>
+        <location filename="../fem/src/femapp.cpp" line="923"/>
         <source>Project</source>
         <translation>项目</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="926"/>
+        <location filename="../fem/src/femapp.cpp" line="928"/>
         <source>Project Control</source>
         <translation>项目管理</translation>
     </message>
     <message>
         <location filename="../fem/src/femapp.cpp" line="338"/>
+        <location filename="../fem/src/femapp.cpp" line="1452"/>
         <source>Cal</source>
         <translation type="unfinished"></translation>
     </message>
@@ -101,196 +102,242 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="490"/>
+        <location filename="../fem/src/femapp.cpp" line="492"/>
         <source>Unsaved Changes</source>
         <translation type="unfinished">未保存的更改</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="491"/>
+        <location filename="../fem/src/femapp.cpp" line="493"/>
         <source>You have unsaved changes. Do you want to save before closing?</source>
         <translation type="unfinished">您有未保存的更改。在关闭前要保存吗？</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="546"/>
+        <location filename="../fem/src/femapp.cpp" line="548"/>
+        <location filename="../fem/src/femapp.cpp" line="1803"/>
         <source>Project control widget is unavailable.</source>
         <translation type="unfinished">项目控制小部件不可用。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="562"/>
+        <location filename="../fem/src/femapp.cpp" line="564"/>
         <source>Failed to load project file: </source>
         <translation type="unfinished">加载项目文件失败：</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="614"/>
+        <location filename="../fem/src/femapp.cpp" line="616"/>
         <source>Config file path is empty.</source>
         <translation type="unfinished">配置文件路径为空。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="659"/>
+        <location filename="../fem/src/femapp.cpp" line="661"/>
         <source>Failed to read FEM config file.</source>
         <translation type="unfinished">读取FEM配置文件失败。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1129"/>
+        <location filename="../fem/src/femapp.cpp" line="1131"/>
         <source>Visualization config not found, skipped: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1138"/>
+        <location filename="../fem/src/femapp.cpp" line="1140"/>
         <source>Failed to load visualization config: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1145"/>
+        <location filename="../fem/src/femapp.cpp" line="1147"/>
         <source>Visualization loaded: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1424"/>
+        <location filename="../fem/src/femapp.cpp" line="1433"/>
+        <source>[Cal] Exported csv not found: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="1462"/>
+        <source>[Cal] Completed, visualization refreshed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="1469"/>
+        <source>[Cal] Failed, visualization not refreshed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="1476"/>
+        <source>[Cal] Failed to start after export.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="1510"/>
         <source>No folders matched the folder pattern. </source>
         <translation type="unfinished">没有文件夹匹配文件夹模式。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1431"/>
+        <location filename="../fem/src/femapp.cpp" line="1517"/>
         <source>Multiple folders matched the folder pattern. Please ensure only one folder matches.</source>
         <translation type="unfinished">多个文件夹匹配了文件夹模式。请确保只有一个文件夹匹配。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1459"/>
+        <location filename="../fem/src/femapp.cpp" line="1545"/>
         <source>No filenames matched the filename pattern.</source>
         <translation type="unfinished">没有文件名匹配文件名模式。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1471"/>
+        <location filename="../fem/src/femapp.cpp" line="1557"/>
         <source>Multiple filenames matched the filename pattern. Please ensure only one filename matches.</source>
         <translation type="unfinished">多个文件名匹配了文件名模式。请确保只有一个文件名匹配。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1530"/>
+        <location filename="../fem/src/femapp.cpp" line="1616"/>
         <source>No sheets matched the sheet pattern. </source>
         <translation type="unfinished">没有工作表匹配工作表模式。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1536"/>
+        <location filename="../fem/src/femapp.cpp" line="1622"/>
         <source>Multiple sheets matched the sheet pattern. Please ensure only one sheet matches.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1570"/>
+        <location filename="../fem/src/femapp.cpp" line="1656"/>
         <source>Failed to read Excel file: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1705"/>
+        <location filename="../fem/src/femapp.cpp" line="1791"/>
         <source>Failed to parse raw FEM config content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1716"/>
+        <location filename="../fem/src/femapp.cpp" line="1808"/>
+        <source>Create New FEMPRJ Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="1810"/>
+        <source>FEM Project Files (*.femprj);;All Files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="1822"/>
+        <source>Select XLSX File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="1823"/>
+        <source>Excel Files (*.xlsx);;All Files (*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="1848"/>
+        <source>Failed to create FEM project file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="1859"/>
         <source>Create New FEM Project</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1717"/>
-        <location filename="../fem/src/femapp.cpp" line="1863"/>
+        <location filename="../fem/src/femapp.cpp" line="1860"/>
+        <location filename="../fem/src/femapp.cpp" line="2006"/>
         <source>FEM Config Files (*.fem);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1731"/>
-        <location filename="../fem/src/femapp.cpp" line="1771"/>
+        <location filename="../fem/src/femapp.cpp" line="1874"/>
+        <location filename="../fem/src/femapp.cpp" line="1914"/>
         <source>Failed to create FEM config file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1742"/>
+        <location filename="../fem/src/femapp.cpp" line="1885"/>
         <source>Create New Workspace File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1743"/>
+        <location filename="../fem/src/femapp.cpp" line="1886"/>
         <source>Workspace Files (*.femmpw);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1803"/>
+        <location filename="../fem/src/femapp.cpp" line="1946"/>
         <source>Open FEM Config File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1804"/>
-        <source>FEM Analysis Project Files (*.fem);;FEM Multi-Project Workspace Files (*.femmpw);;FEM Project Files (*.femprj);;All Files (*)</source>
+        <location filename="../fem/src/femapp.cpp" line="1947"/>
+        <source>FEM Project Files (*.femprj);;FEM Multi-Project Workspace Files (*.femmpw);;FEM Analysis Project Files (*.fem);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1839"/>
-        <location filename="../fem/src/femapp.cpp" line="1870"/>
+        <location filename="../fem/src/femapp.cpp" line="1982"/>
+        <location filename="../fem/src/femapp.cpp" line="2013"/>
         <source>Failed to generate FEM config content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1847"/>
-        <location filename="../fem/src/femapp.cpp" line="1878"/>
+        <location filename="../fem/src/femapp.cpp" line="1990"/>
+        <location filename="../fem/src/femapp.cpp" line="2021"/>
         <source>Failed to save FEM config file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1862"/>
+        <location filename="../fem/src/femapp.cpp" line="2005"/>
         <source>Save FEM Config File As</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1892"/>
+        <location filename="../fem/src/femapp.cpp" line="2035"/>
         <source>Select Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1977"/>
+        <location filename="../fem/src/femapp.cpp" line="2120"/>
         <source>Executable Files (*.exe *.com);;Python Scripts (*.py);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1979"/>
-        <location filename="../fem/src/femapp.cpp" line="2017"/>
+        <location filename="../fem/src/femapp.cpp" line="2122"/>
+        <location filename="../fem/src/femapp.cpp" line="2160"/>
         <source>Executable Files (*);;Python Scripts (*.py);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1981"/>
-        <location filename="../fem/src/femapp.cpp" line="2019"/>
+        <location filename="../fem/src/femapp.cpp" line="2124"/>
+        <location filename="../fem/src/femapp.cpp" line="2162"/>
         <source>All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1984"/>
+        <location filename="../fem/src/femapp.cpp" line="2127"/>
         <source>Select FEM Cal Executable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1992"/>
-        <location filename="../fem/src/femapp.cpp" line="2030"/>
+        <location filename="../fem/src/femapp.cpp" line="2135"/>
+        <location filename="../fem/src/femapp.cpp" line="2173"/>
         <source>Selected file does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1998"/>
-        <location filename="../fem/src/femapp.cpp" line="2036"/>
+        <location filename="../fem/src/femapp.cpp" line="2141"/>
+        <location filename="../fem/src/femapp.cpp" line="2179"/>
         <source>Not executable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1999"/>
-        <location filename="../fem/src/femapp.cpp" line="2037"/>
+        <location filename="../fem/src/femapp.cpp" line="2142"/>
+        <location filename="../fem/src/femapp.cpp" line="2180"/>
         <source>The selected file is not marked executable. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2015"/>
+        <location filename="../fem/src/femapp.cpp" line="2158"/>
         <source>Executable Files (*.exe *.com *.out);;Python Scripts (*.py);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2022"/>
+        <location filename="../fem/src/femapp.cpp" line="2165"/>
         <source>Select FEM Sel Executable</source>
         <translation type="unfinished"></translation>
     </message>
@@ -538,106 +585,111 @@
     </message>
     <message>
         <location filename="../fem/src/global_menu_controller.cpp" line="15"/>
-        <location filename="../fem/src/global_menu_controller.cpp" line="312"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="316"/>
         <source>Project</source>
         <translation>项目</translation>
     </message>
     <message>
         <location filename="../fem/src/global_menu_controller.cpp" line="17"/>
-        <location filename="../fem/src/global_menu_controller.cpp" line="310"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="314"/>
         <source>Workspace</source>
         <translation>工作区</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="21"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="19"/>
+        <source>Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/global_menu_controller.cpp" line="23"/>
         <source>Open Project...</source>
         <translation>打开项目...</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="23"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="25"/>
         <source>Workspace Config...</source>
         <translation>工作区配置...</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="24"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="26"/>
         <source>Recent</source>
         <translation>最近打开</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="26"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="28"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="28"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="30"/>
         <source>Save As...</source>
         <translation>另存为...</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="31"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="33"/>
         <source>Exit</source>
         <translation>退出</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="33"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="35"/>
         <source>View</source>
         <translation>视图</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="35"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="37"/>
         <source>Left Tabs</source>
         <translation>左侧面板</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="38"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="40"/>
         <source>Bottom Tabs</source>
         <translation>底部面板</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="41"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="43"/>
         <source>Visualization</source>
         <translation>可视化</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="45"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="47"/>
         <source>App</source>
         <translation>应用</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="47"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="49"/>
         <source>About</source>
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="49"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="51"/>
         <source>Clear Cache</source>
         <translation>清除缓存</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="102"/>
-        <location filename="../fem/src/global_menu_controller.cpp" line="128"/>
-        <location filename="../fem/src/global_menu_controller.cpp" line="162"/>
-        <location filename="../fem/src/global_menu_controller.cpp" line="195"/>
-        <location filename="../fem/src/global_menu_controller.cpp" line="221"/>
-        <location filename="../fem/src/global_menu_controller.cpp" line="255"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="106"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="132"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="166"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="199"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="225"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="259"/>
         <source>Hide All</source>
         <translation>全部隐藏</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="129"/>
-        <location filename="../fem/src/global_menu_controller.cpp" line="163"/>
-        <location filename="../fem/src/global_menu_controller.cpp" line="222"/>
-        <location filename="../fem/src/global_menu_controller.cpp" line="256"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="133"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="167"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="226"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="260"/>
         <source>Show All</source>
         <translation>展示全部</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="314"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="318"/>
         <source>FEM</source>
         <translation>FEM</translation>
     </message>
     <message>
-        <location filename="../fem/src/global_menu_controller.cpp" line="318"/>
+        <location filename="../fem/src/global_menu_controller.cpp" line="322"/>
         <source>Clear</source>
         <translation>清空</translation>
     </message>
@@ -725,6 +777,8 @@
     </message>
     <message>
         <location filename="../ProjectControlWidget/src/project_control_widget.ui" line="32"/>
+        <location filename="../ProjectControlWidget/src/project_control_widget.ui" line="213"/>
+        <location filename="../ProjectControlWidget/src/project_control_widget.ui" line="236"/>
         <source>Browse</source>
         <translation>浏览</translation>
     </message>
@@ -770,6 +824,16 @@
         <source>Others</source>
         <translation>其他</translation>
     </message>
+    <message>
+        <location filename="../ProjectControlWidget/src/project_control_widget.ui" line="203"/>
+        <source>Sel: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../ProjectControlWidget/src/project_control_widget.ui" line="226"/>
+        <source>Cal: </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>XLSXEditor</name>
@@ -780,7 +844,7 @@
     </message>
     <message>
         <location filename="../XLSXEditor/src/XLSXEditor.ui" line="22"/>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="1485"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="1518"/>
         <source>Preview</source>
         <translation>预览</translation>
     </message>
@@ -791,92 +855,92 @@
     </message>
     <message>
         <location filename="../XLSXEditor/src/XLSXEditor.ui" line="39"/>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="669"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="680"/>
         <source>Export</source>
         <translation>导出</translation>
     </message>
     <message>
         <location filename="../XLSXEditor/src/XLSXEditor.ui" line="46"/>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="656"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="663"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="212"/>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="220"/>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="237"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="219"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="227"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="244"/>
         <source>Error</source>
         <translation type="unfinished">错误</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="213"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="220"/>
         <source>Failed to open XLSX file.</source>
         <translation>打开 XLSX 文件失败。</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="221"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="228"/>
         <source>Failed to prepare picture reader.</source>
         <translation>准备图片读取器失败。</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="238"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="245"/>
         <source>Sheet not found: %1</source>
         <translation>未找到工作表：%1</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="556"/>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="570"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="563"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="577"/>
         <source>Double-click to toggle this column</source>
         <translation>双击切换此列</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="587"/>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="602"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="594"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="609"/>
         <source>Double-click to toggle this row</source>
         <translation>双击切换此行</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="657"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="664"/>
         <source>Data saved to XLSX: %1</source>
         <translation>数据已保存到 XLSX：%1</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="661"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="668"/>
         <source>Save Error</source>
         <translation>保存错误</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="662"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="669"/>
         <source>Failed to save data to XLSX.</source>
         <translation>保存数据到 XLSX 失败。</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="670"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="681"/>
         <source>Data exported to folder: %1</source>
         <translation>数据已导出到文件夹：%1</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="673"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="684"/>
         <source>Export Error</source>
         <translation>导出错误</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="674"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="685"/>
         <source>Failed to export data.</source>
         <translation>导出数据失败。</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="982"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="1006"/>
         <source>Exporting... %p%</source>
         <translation>正在导出... %p%</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="1096"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="1129"/>
         <source>Saving... %p%</source>
         <translation>正在保存... %p%</translation>
     </message>
     <message>
-        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="1484"/>
+        <location filename="../XLSXEditor/src/XLSXEditor.cpp" line="1517"/>
         <source>Show All</source>
         <translation>显示全部</translation>
     </message>
