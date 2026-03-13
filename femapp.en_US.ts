@@ -222,6 +222,7 @@
     </message>
     <message>
         <location filename="../fem/src/femapp.cpp" line="1810"/>
+        <location filename="../fem/src/femapp.cpp" line="2007"/>
         <source>FEM Project Files (*.femprj);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -242,7 +243,7 @@
     </message>
     <message>
         <location filename="../fem/src/femapp.cpp" line="1860"/>
-        <location filename="../fem/src/femapp.cpp" line="2006"/>
+        <location filename="../fem/src/femapp.cpp" line="2032"/>
         <source>FEM Config Files (*.fem);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -279,73 +280,83 @@
     </message>
     <message>
         <location filename="../fem/src/femapp.cpp" line="1982"/>
-        <location filename="../fem/src/femapp.cpp" line="2013"/>
+        <location filename="../fem/src/femapp.cpp" line="2039"/>
         <source>Failed to generate FEM config content.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../fem/src/femapp.cpp" line="1990"/>
-        <location filename="../fem/src/femapp.cpp" line="2021"/>
+        <location filename="../fem/src/femapp.cpp" line="2047"/>
         <source>Failed to save FEM config file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../fem/src/femapp.cpp" line="2005"/>
+        <source>Save FEM Project File As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="2020"/>
+        <source>Failed to save FEM project file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../fem/src/femapp.cpp" line="2031"/>
         <source>Save FEM Config File As</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2035"/>
+        <location filename="../fem/src/femapp.cpp" line="2061"/>
         <source>Select Folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2120"/>
+        <location filename="../fem/src/femapp.cpp" line="2146"/>
         <source>Executable Files (*.exe *.com);;Python Scripts (*.py);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2122"/>
-        <location filename="../fem/src/femapp.cpp" line="2160"/>
+        <location filename="../fem/src/femapp.cpp" line="2148"/>
+        <location filename="../fem/src/femapp.cpp" line="2186"/>
         <source>Executable Files (*);;Python Scripts (*.py);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2124"/>
-        <location filename="../fem/src/femapp.cpp" line="2162"/>
+        <location filename="../fem/src/femapp.cpp" line="2150"/>
+        <location filename="../fem/src/femapp.cpp" line="2188"/>
         <source>All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2127"/>
+        <location filename="../fem/src/femapp.cpp" line="2153"/>
         <source>Select FEM Cal Executable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2135"/>
-        <location filename="../fem/src/femapp.cpp" line="2173"/>
+        <location filename="../fem/src/femapp.cpp" line="2161"/>
+        <location filename="../fem/src/femapp.cpp" line="2199"/>
         <source>Selected file does not exist.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2141"/>
-        <location filename="../fem/src/femapp.cpp" line="2179"/>
+        <location filename="../fem/src/femapp.cpp" line="2167"/>
+        <location filename="../fem/src/femapp.cpp" line="2205"/>
         <source>Not executable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2142"/>
-        <location filename="../fem/src/femapp.cpp" line="2180"/>
+        <location filename="../fem/src/femapp.cpp" line="2168"/>
+        <location filename="../fem/src/femapp.cpp" line="2206"/>
         <source>The selected file is not marked executable. Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2158"/>
+        <location filename="../fem/src/femapp.cpp" line="2184"/>
         <source>Executable Files (*.exe *.com *.out);;Python Scripts (*.py);;All Files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2165"/>
+        <location filename="../fem/src/femapp.cpp" line="2191"/>
         <source>Select FEM Sel Executable</source>
         <translation type="unfinished"></translation>
     </message>
