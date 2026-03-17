@@ -11,12 +11,12 @@
     <message>
         <location filename="../XLSXEditor/src/DataItem.cpp" line="50"/>
         <source>Click to keep/remove, right-click to modify</source>
-        <translation type="unfinished"></translation>
+        <translation>单击保留/删除，右键单击修改</translation>
     </message>
     <message>
         <location filename="../XLSXEditor/src/DataItem.cpp" line="52"/>
         <source>Click to keep/remove, double-click to preview</source>
-        <translation type="unfinished"></translation>
+        <translation>单击保留/删除，双击预览</translation>
     </message>
     <message>
         <location filename="../XLSXEditor/src/DataItem.cpp" line="193"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="../XLSXEditor/src/DataItem.cpp" line="196"/>
         <source>Modify Value</source>
-        <translation type="unfinished">修改数值</translation>
+        <translation>修改数值</translation>
     </message>
     <message>
         <location filename="../XLSXEditor/src/DataItem.cpp" line="254"/>
@@ -43,15 +43,15 @@
     <name>FemApp</name>
     <message>
         <location filename="../fem/src/mainwindow.ui" line="14"/>
-        <location filename="../fem/src/femapp.cpp" line="2150"/>
-        <location filename="../fem/src/femapp.cpp" line="2160"/>
+        <location filename="../fem/src/femapp.cpp" line="2151"/>
+        <location filename="../fem/src/femapp.cpp" line="2161"/>
         <source>FemApp</source>
         <translation>FemApp</translation>
     </message>
     <message>
         <location filename="../fem/src/mainwindow.ui" line="82"/>
         <location filename="../fem/src/femapp.cpp" line="141"/>
-        <location filename="../fem/src/femapp.cpp" line="1508"/>
+        <location filename="../fem/src/femapp.cpp" line="1509"/>
         <source>FEM</source>
         <translation>FEM</translation>
     </message>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <location filename="../fem/src/femapp.cpp" line="532"/>
-        <location filename="../fem/src/femapp.cpp" line="1871"/>
+        <location filename="../fem/src/femapp.cpp" line="1872"/>
         <source>Cal</source>
         <translation>Cal</translation>
     </message>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <location filename="../fem/src/femapp.cpp" line="756"/>
-        <location filename="../fem/src/femapp.cpp" line="2228"/>
+        <location filename="../fem/src/femapp.cpp" line="2229"/>
         <source>Project control widget is unavailable.</source>
         <translation>项目控制小部件不可用。</translation>
     </message>
@@ -139,7 +139,7 @@
     </message>
     <message>
         <location filename="../fem/src/femapp.cpp" line="868"/>
-        <location filename="../fem/src/femapp.cpp" line="1564"/>
+        <location filename="../fem/src/femapp.cpp" line="1565"/>
         <source>Failed to read FEM config file.</source>
         <translation>读取FEM配置文件失败。</translation>
     </message>
@@ -164,57 +164,57 @@
         <translation>加载可视化配置失败：%1</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1397"/>
+        <location filename="../fem/src/femapp.cpp" line="1398"/>
         <source>Visualization loaded: %1</source>
         <translation>可视化已加载：%1</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1922"/>
+        <location filename="../fem/src/femapp.cpp" line="1923"/>
         <source>No folders matched the folder pattern. </source>
         <translation>没有文件夹匹配文件夹模式。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1929"/>
+        <location filename="../fem/src/femapp.cpp" line="1930"/>
         <source>Multiple folders matched the folder pattern. Please ensure only one folder matches.</source>
         <translation>多个文件夹匹配了文件夹模式。请确保只有一个文件夹匹配。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1957"/>
+        <location filename="../fem/src/femapp.cpp" line="1958"/>
         <source>No filenames matched the filename pattern.</source>
         <translation>没有文件名匹配文件名模式。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1969"/>
+        <location filename="../fem/src/femapp.cpp" line="1970"/>
         <source>Multiple filenames matched the filename pattern. Please ensure only one filename matches.</source>
         <translation>多个文件名匹配了文件名模式。请确保只有一个文件名匹配。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2028"/>
+        <location filename="../fem/src/femapp.cpp" line="2029"/>
         <source>No sheets matched the sheet pattern. </source>
         <translation>没有工作表匹配工作表模式。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2034"/>
+        <location filename="../fem/src/femapp.cpp" line="2035"/>
         <source>Multiple sheets matched the sheet pattern. Please ensure only one sheet matches.</source>
         <translation>多个工作表匹配了工作表模式。请确保只有一个工作表匹配。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2068"/>
+        <location filename="../fem/src/femapp.cpp" line="2069"/>
         <source>Failed to read Excel file: </source>
         <translation>读取Excel文件失败：</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2216"/>
+        <location filename="../fem/src/femapp.cpp" line="2217"/>
         <source>Failed to parse raw FEM config content.</source>
         <translation>解析原始FEM配置内容失败。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2386"/>
+        <location filename="../fem/src/femapp.cpp" line="2387"/>
         <source>FEM Project Files (*.femprj);;All Files (*)</source>
         <translation>FEM项目文件 (*.femprj);;所有文件 (*)</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2236"/>
+        <location filename="../fem/src/femapp.cpp" line="2237"/>
         <source>Create New FEM Project</source>
         <translation>创建新的FEM项目</translation>
     </message>
@@ -231,119 +231,119 @@ Target=%2</source>
 Target=%2</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2237"/>
-        <location filename="../fem/src/femapp.cpp" line="2411"/>
+        <location filename="../fem/src/femapp.cpp" line="2238"/>
+        <location filename="../fem/src/femapp.cpp" line="2412"/>
         <source>FEM Config Files (*.fem);;All Files (*)</source>
         <translation>FEM配置文件 (*.fem);;所有文件 (*)</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2251"/>
-        <location filename="../fem/src/femapp.cpp" line="2291"/>
+        <location filename="../fem/src/femapp.cpp" line="2252"/>
+        <location filename="../fem/src/femapp.cpp" line="2292"/>
         <source>Failed to create FEM config file.</source>
         <translation>创建FEM配置文件失败。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2262"/>
+        <location filename="../fem/src/femapp.cpp" line="2263"/>
         <source>Create New Workspace File</source>
         <translation>创建新的工作空间文件</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2263"/>
+        <location filename="../fem/src/femapp.cpp" line="2264"/>
         <source>Workspace Files (*.femmpw);;All Files (*)</source>
         <translation>工作空间文件 (*.femmpw);;所有文件 (*)</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2323"/>
+        <location filename="../fem/src/femapp.cpp" line="2324"/>
         <source>Open FEM Config File</source>
         <translation>打开FEM配置文件</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2324"/>
+        <location filename="../fem/src/femapp.cpp" line="2325"/>
         <source>FEM Project Files (*.femprj);;FEM Multi-Project Workspace Files (*.femmpw);;FEM Analysis Project Files (*.fem);;All Files (*)</source>
         <translation>FEM项目文件 (*.femprj);;FEM多项目工作空间文件 (*.femmpw);;FEM分析项目文件 (*.fem);;所有文件 (*)</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1548"/>
-        <location filename="../fem/src/femapp.cpp" line="2359"/>
-        <location filename="../fem/src/femapp.cpp" line="2418"/>
+        <location filename="../fem/src/femapp.cpp" line="1549"/>
+        <location filename="../fem/src/femapp.cpp" line="2360"/>
+        <location filename="../fem/src/femapp.cpp" line="2419"/>
         <source>Failed to generate FEM config content.</source>
         <translation>生成FEM配置内容失败。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="1556"/>
-        <location filename="../fem/src/femapp.cpp" line="1570"/>
-        <location filename="../fem/src/femapp.cpp" line="2367"/>
-        <location filename="../fem/src/femapp.cpp" line="2426"/>
+        <location filename="../fem/src/femapp.cpp" line="1557"/>
+        <location filename="../fem/src/femapp.cpp" line="1571"/>
+        <location filename="../fem/src/femapp.cpp" line="2368"/>
+        <location filename="../fem/src/femapp.cpp" line="2427"/>
         <source>Failed to save FEM config file.</source>
         <translation>保存FEM配置文件失败。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2384"/>
+        <location filename="../fem/src/femapp.cpp" line="2385"/>
         <source>Save FEM Project File As</source>
         <translation>另存FEM项目文件</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2399"/>
+        <location filename="../fem/src/femapp.cpp" line="2400"/>
         <source>Failed to save FEM project file.</source>
         <translation>保存FEM项目文件失败。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2410"/>
+        <location filename="../fem/src/femapp.cpp" line="2411"/>
         <source>Save FEM Config File As</source>
         <translation>另存FEM配置文件</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2442"/>
+        <location filename="../fem/src/femapp.cpp" line="2443"/>
         <source>Select Folder</source>
         <translation>选择文件夹</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2535"/>
+        <location filename="../fem/src/femapp.cpp" line="2536"/>
         <source>Executable Files (*.exe *.com);;Python Scripts (*.py);;All Files (*)</source>
         <translation>可执行文件 (*.exe *.com);;Python脚本 (*.py);;所有文件 (*)</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2537"/>
-        <location filename="../fem/src/femapp.cpp" line="2575"/>
+        <location filename="../fem/src/femapp.cpp" line="2538"/>
+        <location filename="../fem/src/femapp.cpp" line="2576"/>
         <source>Executable Files (*);;Python Scripts (*.py);;All Files (*)</source>
         <translation>可执行文件 (*);;Python脚本 (*.py);;所有文件 (*)</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2539"/>
-        <location filename="../fem/src/femapp.cpp" line="2577"/>
+        <location filename="../fem/src/femapp.cpp" line="2540"/>
+        <location filename="../fem/src/femapp.cpp" line="2578"/>
         <source>All Files (*)</source>
         <translation>所有文件 (*)</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2542"/>
+        <location filename="../fem/src/femapp.cpp" line="2543"/>
         <source>Select FEM Cal Executable</source>
         <translation>选择 FEM Cal 可执行文件</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2550"/>
-        <location filename="../fem/src/femapp.cpp" line="2588"/>
+        <location filename="../fem/src/femapp.cpp" line="2551"/>
+        <location filename="../fem/src/femapp.cpp" line="2589"/>
         <source>Selected file does not exist.</source>
         <translation>所选文件不存在。</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2556"/>
-        <location filename="../fem/src/femapp.cpp" line="2594"/>
+        <location filename="../fem/src/femapp.cpp" line="2557"/>
+        <location filename="../fem/src/femapp.cpp" line="2595"/>
         <source>Not executable</source>
         <translation>不可执行</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2557"/>
-        <location filename="../fem/src/femapp.cpp" line="2595"/>
+        <location filename="../fem/src/femapp.cpp" line="2558"/>
+        <location filename="../fem/src/femapp.cpp" line="2596"/>
         <source>The selected file is not marked executable. Do you want to continue?</source>
         <translation>所选文件未标记为可执行文件。您想继续吗？</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2573"/>
+        <location filename="../fem/src/femapp.cpp" line="2574"/>
         <source>Executable Files (*.exe *.com *.out);;Python Scripts (*.py);;All Files (*)</source>
         <translation>可执行文件 (*.exe *.com *.out);;Python脚本 (*.py);;所有文件 (*)</translation>
     </message>
     <message>
-        <location filename="../fem/src/femapp.cpp" line="2580"/>
+        <location filename="../fem/src/femapp.cpp" line="2581"/>
         <source>Select FEM Sel Executable</source>
         <translation>选择 FEM Sel 可执行文件</translation>
     </message>
@@ -354,7 +354,7 @@ Target=%2</translation>
     </message>
     <message>
         <location filename="../fem/src/femapp.cpp" line="74"/>
-        <location filename="../fem/src/femapp.cpp" line="1628"/>
+        <location filename="../fem/src/femapp.cpp" line="1629"/>
         <source>FEM %1</source>
         <translation>FEM %1</translation>
     </message>
@@ -411,7 +411,7 @@ Target=%2</translation>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="131"/>
         <source>Dry Run</source>
-        <translation type="unfinished">模拟运行</translation>
+        <translation>模拟运行</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="145"/>
@@ -433,182 +433,182 @@ Target=%2</translation>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="318"/>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="463"/>
         <source>Mode</source>
-        <translation >Mode</translation>
+        <translation>Mode</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="181"/>
         <source>LowHigh</source>
-        <translation >LowHigh</translation>
+        <translation>LowHigh</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="193"/>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="338"/>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="483"/>
         <source>Unit</source>
-        <translation >Unit</translation>
+        <translation>Unit</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="201"/>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="491"/>
         <source>mJ/cm2</source>
-        <translation >mJ/cm2</translation>
+        <translation>mJ/cm2</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="213"/>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="358"/>
         <source>Center</source>
-        <translation >Center</translation>
+        <translation>Center</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="240"/>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="385"/>
         <source>Step</source>
-        <translation >Step</translation>
+        <translation>Step</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="267"/>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="412"/>
         <source>No</source>
-        <translation >No</translation>
+        <translation>No</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="281"/>
         <source>Cols</source>
-        <translation >Cols</translation>
+        <translation>Cols</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="310"/>
         <source>Focus</source>
-        <translation >Focus</translation>
+        <translation>Focus</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="326"/>
         <source>Focus2DoseLinear</source>
-        <translation >Focus2DoseLinear</translation>
+        <translation>Focus2DoseLinear</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="346"/>
         <source>um</source>
-        <translation >um</translation>
+        <translation>um</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="426"/>
         <source>Rows</source>
-        <translation >Rows</translation>
+        <translation>Rows</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="455"/>
         <source>FEM</source>
-        <translation >FEM</translation>
+        <translation>FEM</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="471"/>
         <source>NegPos2</source>
-        <translation >NegPos2</translation>
+        <translation>NegPos2</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="503"/>
         <source>Target</source>
-        <translation >Target</translation>
+        <translation>Target</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="530"/>
         <source>Spec</source>
-        <translation >Spec</translation>
+        <translation>Spec</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="557"/>
         <source>Cal </source>
-        <translation >Cal </translation>
+        <translation>Cal </translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="578"/>
         <source>Sel </source>
-        <translation >Sel </translation>
+        <translation>Sel </translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="601"/>
         <source>Text</source>
-        <translation type="unfinished">文本编辑</translation>
+        <translation>文本编辑</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="609"/>
         <source>Reset</source>
-        <translation type="unfinished">重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="616"/>
         <source>Apply</source>
-        <translation type="unfinished">应用</translation>
+        <translation>应用</translation>
     </message>
 </context>
 <context>
     <name>FemVisualizationWidget</name>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="107"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="227"/>
         <source>Image Preview</source>
         <translation>图像预览</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="108"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="228"/>
         <source>%1 - Preview</source>
-        <translation type="unfinished">%1 - 预览</translation>
+        <translation>%1 - 预览</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="179"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="293"/>
         <source>Visualization</source>
         <translation>可视化</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="192"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="306"/>
         <source>Failed to open report text file.</source>
         <translation>无法打开报告文本文件。</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="211"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="325"/>
         <source>Failed to load image file.</source>
         <translation>无法加载图像文件。</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="223"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="337"/>
         <source>Image</source>
         <translation>图像</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="256"/>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="267"/>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="276"/>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="289"/>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="300"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="370"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="381"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="390"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="403"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="414"/>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="257"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="371"/>
         <source>Cannot resolve project name from current directory.</source>
         <translation>无法从当前目录解析项目名称。</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="268"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="382"/>
         <source>Report XLSX file does not exist:
 %1</source>
         <translation>报告 XLSX 文件不存在:
 %1</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="277"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="391"/>
         <source>Failed to open XLSX file with system default application.</source>
         <translation>无法使用系统默认应用程序打开 XLSX 文件。</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="290"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="404"/>
         <source>Results folder does not exist:
 %1</source>
         <translation>结果文件夹不存在:
 %1</translation>
     </message>
     <message>
-        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="301"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="415"/>
         <source>Failed to open folder in system file manager.</source>
         <translation>无法在系统文件管理器中打开文件夹。</translation>
     </message>
@@ -937,12 +937,12 @@ Target=%2</translation>
     <message>
         <location filename="../ProjectControlWidget/src/project_control_widget.ui" line="228"/>
         <source>Sel: </source>
-        <translation type="unfinished"></translation>
+        <translation>Sel: </translation>
     </message>
     <message>
         <location filename="../ProjectControlWidget/src/project_control_widget.ui" line="207"/>
         <source>Cal: </source>
-        <translation type="unfinished"></translation>
+        <translation>Cal: </translation>
     </message>
 </context>
 <context>
@@ -950,7 +950,7 @@ Target=%2</translation>
     <message>
         <location filename="../Visualization/src/parser.cpp" line="23"/>
         <source>Visualization config file does not exist: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>可视化配置文件不存在：%1</translation>
     </message>
 </context>
 <context>
