@@ -12,10 +12,12 @@
         <location filename="../XLSXEditor/src/DataItem.cpp" line="187"/>
         <source>Click to keep/remove, right-click to modify</source>
         <translation>单击保留/删除，右键单击修改</translation>
+        <translation>单击保留/删除，右键单击修改</translation>
     </message>
     <message>
         <location filename="../XLSXEditor/src/DataItem.cpp" line="189"/>
         <source>Click to keep/remove, double-click to preview</source>
+        <translation>单击保留/删除，双击预览</translation>
         <translation>单击保留/删除，双击预览</translation>
     </message>
     <message>
@@ -31,6 +33,7 @@
     <message>
         <location filename="../XLSXEditor/src/DataItem.cpp" line="333"/>
         <source>Modify Value</source>
+        <translation>修改数值</translation>
         <translation>修改数值</translation>
     </message>
     <message>
@@ -412,6 +415,7 @@ Target=%2</translation>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="131"/>
         <source>Dry Run</source>
         <translation>模拟运行</translation>
+        <translation>模拟运行</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="145"/>
@@ -434,10 +438,12 @@ Target=%2</translation>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="463"/>
         <source>Mode</source>
         <translation>Mode</translation>
+        <translation>Mode</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="181"/>
         <source>LowHigh</source>
+        <translation>LowHigh</translation>
         <translation>LowHigh</translation>
     </message>
     <message>
@@ -446,11 +452,13 @@ Target=%2</translation>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="483"/>
         <source>Unit</source>
         <translation>Unit</translation>
+        <translation>Unit</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="201"/>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="491"/>
         <source>mJ/cm2</source>
+        <translation>mJ/cm2</translation>
         <translation>mJ/cm2</translation>
     </message>
     <message>
@@ -458,11 +466,13 @@ Target=%2</translation>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="358"/>
         <source>Center</source>
         <translation>Center</translation>
+        <translation>Center</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="240"/>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="385"/>
         <source>Step</source>
+        <translation>Step</translation>
         <translation>Step</translation>
     </message>
     <message>
@@ -470,75 +480,90 @@ Target=%2</translation>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="412"/>
         <source>No</source>
         <translation>No</translation>
+        <translation>No</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="281"/>
         <source>Cols</source>
+        <translation>Cols</translation>
         <translation>Cols</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="310"/>
         <source>Focus</source>
         <translation>Focus</translation>
+        <translation>Focus</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="326"/>
         <source>Focus2DoseLinear</source>
+        <translation>Focus2DoseLinear</translation>
         <translation>Focus2DoseLinear</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="346"/>
         <source>um</source>
         <translation>um</translation>
+        <translation>um</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="426"/>
         <source>Rows</source>
+        <translation>Rows</translation>
         <translation>Rows</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="455"/>
         <source>FEM</source>
         <translation>FEM</translation>
+        <translation>FEM</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="471"/>
         <source>NegPos2</source>
+        <translation>NegPos2</translation>
         <translation>NegPos2</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="503"/>
         <source>Target</source>
         <translation>Target</translation>
+        <translation>Target</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="530"/>
         <source>Spec</source>
+        <translation>Spec</translation>
         <translation>Spec</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="557"/>
         <source>Cal </source>
         <translation>Cal </translation>
+        <translation>Cal </translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="578"/>
         <source>Sel </source>
+        <translation>Sel </translation>
         <translation>Sel </translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="601"/>
         <source>Text</source>
         <translation>文本编辑</translation>
+        <translation>文本编辑</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="609"/>
         <source>Reset</source>
         <translation>重置</translation>
+        <translation>重置</translation>
     </message>
     <message>
         <location filename="../FemControlWidget/src/fem_control_widget.ui" line="616"/>
         <source>Apply</source>
+        <translation>应用</translation>
         <translation>应用</translation>
     </message>
 </context>
@@ -546,30 +571,37 @@ Target=%2</translation>
     <name>FemVisualizationWidget</name>
     <message>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="227"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="227"/>
         <source>Image Preview</source>
         <translation>图像预览</translation>
     </message>
     <message>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="228"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="228"/>
         <source>%1 - Preview</source>
+        <translation>%1 - 预览</translation>
         <translation>%1 - 预览</translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="293"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="293"/>
         <source>Visualization</source>
         <translation>可视化</translation>
     </message>
     <message>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="306"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="306"/>
         <source>Failed to open report text file.</source>
         <translation>无法打开报告文本文件。</translation>
     </message>
     <message>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="325"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="325"/>
         <source>Failed to load image file.</source>
         <translation>无法加载图像文件。</translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="337"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="337"/>
         <source>Image</source>
         <translation>图像</translation>
@@ -580,15 +612,23 @@ Target=%2</translation>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="390"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="403"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="414"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="370"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="381"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="390"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="403"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="414"/>
         <source>Warning</source>
+        <translation>警告</translation>
         <translation>警告</translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="371"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="371"/>
         <source>Cannot resolve project name from current directory.</source>
         <translation>无法从当前目录解析项目名称。</translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="382"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="382"/>
         <source>Report XLSX file does not exist:
 %1</source>
@@ -597,10 +637,12 @@ Target=%2</translation>
     </message>
     <message>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="391"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="391"/>
         <source>Failed to open XLSX file with system default application.</source>
         <translation>无法使用系统默认应用程序打开 XLSX 文件。</translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="404"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="404"/>
         <source>Results folder does not exist:
 %1</source>
@@ -608,6 +650,7 @@ Target=%2</translation>
 %1</translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="415"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="415"/>
         <source>Failed to open folder in system file manager.</source>
         <translation>无法在系统文件管理器中打开文件夹。</translation>
@@ -938,10 +981,12 @@ Target=%2</translation>
         <location filename="../ProjectControlWidget/src/project_control_widget.ui" line="228"/>
         <source>Sel: </source>
         <translation>Sel: </translation>
+        <translation>Sel: </translation>
     </message>
     <message>
         <location filename="../ProjectControlWidget/src/project_control_widget.ui" line="207"/>
         <source>Cal: </source>
+        <translation>Cal: </translation>
         <translation>Cal: </translation>
     </message>
 </context>
@@ -950,6 +995,7 @@ Target=%2</translation>
     <message>
         <location filename="../Visualization/src/parser.cpp" line="23"/>
         <source>Visualization config file does not exist: %1</source>
+        <translation>可视化配置文件不存在：%1</translation>
         <translation>可视化配置文件不存在：%1</translation>
     </message>
 </context>

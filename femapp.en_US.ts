@@ -545,30 +545,36 @@ Target=%2</source>
     <name>FemVisualizationWidget</name>
     <message>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="227"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="227"/>
         <source>Image Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="228"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="228"/>
         <source>%1 - Preview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="293"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="293"/>
         <source>Visualization</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="306"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="306"/>
         <source>Failed to open report text file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="325"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="325"/>
         <source>Failed to load image file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="337"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="337"/>
         <source>Image</source>
         <translation type="unfinished"></translation>
@@ -579,15 +585,22 @@ Target=%2</source>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="390"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="403"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="414"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="370"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="381"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="390"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="403"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="414"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="371"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="371"/>
         <source>Cannot resolve project name from current directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="382"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="382"/>
         <source>Report XLSX file does not exist:
 %1</source>
@@ -595,16 +608,19 @@ Target=%2</source>
     </message>
     <message>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="391"/>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="391"/>
         <source>Failed to open XLSX file with system default application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="404"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="404"/>
         <source>Results folder does not exist:
 %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../Visualization/src/fem_visualization_widget.cpp" line="415"/>
         <location filename="../Visualization/src/fem_visualization_widget.cpp" line="415"/>
         <source>Failed to open folder in system file manager.</source>
         <translation type="unfinished"></translation>
